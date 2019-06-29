@@ -1,0 +1,12 @@
+[
+    {
+        "name": "<b>Name</b> : Ade Firman Ardiansyah",
+        "age": "<b>Age </b>: 21",
+        "address" : "<b>Address </b>: Vila Tangerang Elok Blok C6 No.23",
+        "hobbies" : "<b>Hobbies</b> : Watching Netflix",
+        "is_married" : "<b>Married</b> : False",
+        "list_school" : "<b>List School </b>: SMAN 24 Kab.Tangerang",
+        "skills" : "<b>Skills </b>: Frontend - 60%",
+        "interest_in_coding" : "<b>You love coding </b> : True"
+    }
+]
